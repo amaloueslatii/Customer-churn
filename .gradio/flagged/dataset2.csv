@@ -1,0 +1,2 @@
+Gender,Partner,Dependents,Phone Service,Multiple Lines,Internet Service,Online Security,Online Backup,Device Protection,Tech Support,Streaming TV,Streaming Movies,Contract,Paperless Billing,Payment Method,Tenure (months),Monthly Charges ($),Total Charges ($),Churn Prediction,timestamp
+Male,Yes,Yes,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Credit card (automatic),60,45,2700,Not likely to churn,2025-10-07 14:59:16.175170

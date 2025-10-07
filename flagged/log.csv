@@ -1,0 +1,4 @@
+Gender,Partner,Dependents,Phone Service,Multiple Lines,Internet Service,Online Security,Online Backup,Device Protection,Tech Support,Streaming TV,Streaming Movies,Contract,Paperless Billing,Payment Method,Tenure (months),Monthly Charges,Total Charges,output,flag,username,timestamp
+Female,Yes,No,No,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Mailed check,7,8,147,,,,2025-10-06 01:29:30.768785
+Female,No,No,No,No,Fiber optic,Yes,No,No,No,Yes,No,One year,Yes,Mailed check,19,39,45,Likely to churn,,,2025-10-07 15:39:53.582696
+Female,No,No,No,No,Fiber optic,Yes,No,No,No,Yes,No,One year,Yes,Mailed check,19,39,45,Likely to churn,,,2025-10-07 15:39:56.762798
