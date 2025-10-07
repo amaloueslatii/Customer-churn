@@ -27,4 +27,4 @@ jobs:
           file: ./dockerfile  
           push: true
           tags: amaloueslati/customer-churn:latest 
-#test
+#test2
