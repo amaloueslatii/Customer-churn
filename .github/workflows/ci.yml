@@ -26,5 +26,5 @@ jobs:
           context: .
           file: ./dockerfile  
           push: true
-          tags: amaloueslati/telco-fastapi:latest 
+          tags: amaloueslati/customer-churn:latest 
 #test
