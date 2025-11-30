@@ -1,4 +1,4 @@
-# Customer Churn MLOps pipeline
+# Customer Churn MLOps Pipeline
 
 ## Purpose
 Complete workflow for predicting customer churn in a telecom context: data preparation, model training, experiment tracking, API service, UI, and containerization.
